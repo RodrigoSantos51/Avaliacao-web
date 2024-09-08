@@ -1,0 +1,29 @@
+@import url("styles/header.css");
+@import url("styles/slider.css");
+@import url("styles/conteudo.css");
+@import url("styles/footer.css");
+@import url("styles/box.css");
+
+
+:root {
+    --azul-escuro: #000086;
+    --cinza-escuro: #434343;
+    --cinza-claro: #8B8B8B;
+    --cor-de-fundo: #FFFFFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+ 
+
+body {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    max-width: auto;
+    margin: 0 auto;
+    padding: 0;
+}
